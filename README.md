@@ -4,8 +4,6 @@ eslint-plugin-kysely-rules is a fork of eslint-plugin-safe-kysely, it adds a new
 The original plugin can be found [here](https://www.npmjs.com/package/eslint-plugin-safe-kysely).
 If the original plugin get published on github, additions like this one will be made to the original plugin.
 
-eslint-plugin-safe-kysely is an ESLint plugin designed to enhance the safety of database operations in applications using Kysely. It ensures that any call chain containing updateTable or deleteFrom includes a where clause to prevent unintentional data modification or deletion of entire tables.
-
 ## Installation
 
 1. Install ESLint (if not already installed):
