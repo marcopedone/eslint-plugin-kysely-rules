@@ -1,8 +1,10 @@
 # eslint-plugin-kysely-rules
 
 eslint-plugin-kysely-rules is a fork of eslint-plugin-safe-kysely, it adds a new rule to enforce the use of a select clause in the call chain of the selectFrom method.
+
 The original plugin can be found [here](https://www.npmjs.com/package/eslint-plugin-safe-kysely).
-If the original plugin get published on github, additions like this one will be made to the original plugin.
+
+The original plugin is not on github.
 
 ## Installation
 
