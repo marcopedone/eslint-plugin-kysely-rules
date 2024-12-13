@@ -18,6 +18,7 @@ ruleTester.run(
       {
         code: "trx.selectFrom('name').where('something', '=', something).execute()",
         errors: 1,
+        output: "trx.selectFrom('name').selectAll().where('something', '=', something).execute()",
       },
     ],
   }
