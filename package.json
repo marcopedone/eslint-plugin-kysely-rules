@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kysely-rules",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ensures safe database operations for Kysely",
   "main": "eslint-plugin-kysely-rules.js",
   "scripts": {
